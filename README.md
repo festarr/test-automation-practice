@@ -5,6 +5,8 @@ This repository is a test suite consisting of 3 different spec.js files that run
 2. `checkout.spec.js` tests checkout steps
 3. `contactus.spec.js` tests contactus steps
 
+`global-setup.js` is used to open a browser page and sign in and add an item to the cart. This browser's cookies are stored in `assessment.json` to be able to skip authentication in certain tests that require the user to be logged in. Similarly, any tests that require an item to already be in the cart will use `assessment.json` in order to improve performance
+
 All tests included cover positive-only scenarios, and are conducted on the website `automationpractice.com`.
 Coded with the Playwright JavaScript Front-End testing tool
 
