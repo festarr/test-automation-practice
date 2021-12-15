@@ -16,3 +16,6 @@ Coded with the Playwright JavaScript Front-End testing tool
 2. To run tests with the browser opening and showing visually `npx playwright --headed`
 3. To run tests step by step change the environment with `$env:PWDEBUG=1`, and then run `npx playwright --headed`
 4. To run a specific browser add a parameter `--browser=firefox` or if you want to run all browsers use `--browser=all`
+
+Full command example:
+`npx playwright test --browser=all --headed``
