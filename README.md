@@ -10,7 +10,7 @@ Coded with the Playwright JavaScript Front-End testing tool
 
 # How to run locally
 
-[First make sure to have Playwright installed](https://playwright.dev/docs/intro)
+[First make sure to have Playwright installed](https://playwright.dev/docs/intro#installation)
 
 1. In the terminal, to simply run the tests `npx playwright test`
 2. To run tests with the browser opening and showing visually `npx playwright --headed`
