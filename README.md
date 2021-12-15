@@ -18,4 +18,4 @@ Coded with the Playwright JavaScript Front-End testing tool
 4. To run a specific browser add a parameter `--browser=firefox` or if you want to run all browsers use `--browser=all`
 
 Full command example:
-`npx playwright test --browser=all --headed``
+`npx playwright test --browser=all --headed`
