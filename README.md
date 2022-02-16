@@ -14,7 +14,7 @@ Coded with the Playwright JavaScript Front-End testing tool
 
 [First make sure you have Playwright installed. Assuming you have npm in your machine `npm i -D @playwright/test`](https://playwright.dev/docs/intro#installation)
 
-0. Install Playwright. `npx playwright install`
+0. Install Playwright browsers. `npx playwright install`
 1. In the terminal, to simply run the tests `npx playwright test`
 2. To run tests with the browser opening and showing visually `npx playwright --headed`
 3. To run tests step by step change the environment with `$env:PWDEBUG=1`, and then run `npx playwright --headed`
