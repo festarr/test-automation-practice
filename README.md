@@ -1,6 +1,6 @@
 
 ### Update:
-This was my very first test suite. I've ever since moved on to using POM (page object model). So this does not reflect my current coding standards. Can't share POM code I have since it's tied to my current job. I'll get around to making a portfolio website at some point and will make a test suite for that
+This was my very first test suite. I've ever since moved on to using POM (page object model). So this does not reflect my current coding standards. Can't share POM code I have since it's tied to my current job. I'll get around to making a portfolio website at some point and will make a test suite for that. Don't really know why there's no package.json either
 
 # automation-practice
 This repository is a test suite consisting of 3 different spec.js files that run as 3 different workers:
